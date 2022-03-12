@@ -301,19 +301,17 @@
         "timezones-v0_5_4": "timezones-v0_5_4"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
+        "lastModified": 1647067119,
+        "narHash": "sha256-FGuAasfAHYL7EhmCvqAMS5eMw9A/jlFsr0lQQSX0c6w=",
+        "owner": "nim-nix-pkgs",
+        "repo": "timezones",
+        "rev": "1abfa18c3300627659102584a568fc1be41f9826",
         "type": "github"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "timezones",
         "type": "github"
       }
     },
@@ -330,20 +328,13 @@
         "src-timezones-master": "src-timezones-master"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/master",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-JcXC+aZWyOeeQ5Eu3XxRDmGXNRgmyCijhQTgCgmik/c=",
+        "path": "./master",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/master",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./master",
+        "type": "path"
       }
     },
     "timezones-v0_2_0": {
@@ -359,20 +350,13 @@
         "src-timezones-v0_2_0": "src-timezones-v0_2_0"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_2_0",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-EQeEq1AkfvKA4vCw62lLv0tEFX1CtkT+1mv64l3gCVE=",
+        "path": "./v0_2_0",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_2_0",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_2_0",
+        "type": "path"
       }
     },
     "timezones-v0_2_1": {
@@ -388,20 +372,13 @@
         "src-timezones-v0_2_1": "src-timezones-v0_2_1"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_2_1",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-+pNAZxjHKBz9wC1pbP8+KVwoYyddW7Xm5NtN6vhyWQ4=",
+        "path": "./v0_2_1",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_2_1",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_2_1",
+        "type": "path"
       }
     },
     "timezones-v0_3_0": {
@@ -417,20 +394,13 @@
         "src-timezones-v0_3_0": "src-timezones-v0_3_0"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_3_0",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-0xK8nfZQICukVfPyWl7qWkanSNmV7m4sL0RDMVbPvCY=",
+        "path": "./v0_3_0",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_3_0",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_3_0",
+        "type": "path"
       }
     },
     "timezones-v0_4_0": {
@@ -446,20 +416,13 @@
         "src-timezones-v0_4_0": "src-timezones-v0_4_0"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_4_0",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-RolxHT4ojlktCcZwO0daXTt2aRScaJATLywvRj4h94M=",
+        "path": "./v0_4_0",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_4_0",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_4_0",
+        "type": "path"
       }
     },
     "timezones-v0_4_1": {
@@ -475,20 +438,13 @@
         "src-timezones-v0_4_1": "src-timezones-v0_4_1"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_4_1",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-nTFsdBWYj4i0QPSsQ2KnDwBZmFQKwDlZi5ftgytJGIg=",
+        "path": "./v0_4_1",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_4_1",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_4_1",
+        "type": "path"
       }
     },
     "timezones-v0_4_2": {
@@ -504,20 +460,13 @@
         "src-timezones-v0_4_2": "src-timezones-v0_4_2"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_4_2",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-RXpwzc4jjFSg/H4u/HPGtMacIAvLSh2u6NWpI99bNg4=",
+        "path": "./v0_4_2",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_4_2",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_4_2",
+        "type": "path"
       }
     },
     "timezones-v0_4_3": {
@@ -533,20 +482,13 @@
         "src-timezones-v0_4_3": "src-timezones-v0_4_3"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_4_3",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-TR641s75ap7eGy0uHnJfIDkpqKpZGqD1V8Q3VcQwWs4=",
+        "path": "./v0_4_3",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_4_3",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_4_3",
+        "type": "path"
       }
     },
     "timezones-v0_5_0": {
@@ -562,20 +504,13 @@
         "src-timezones-v0_5_0": "src-timezones-v0_5_0"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_5_0",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-M0bnyb5r9mV4Kyc95Ci9bRJ34EBUwLfT+PAxtKpUoG4=",
+        "path": "./v0_5_0",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_5_0",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_5_0",
+        "type": "path"
       }
     },
     "timezones-v0_5_1": {
@@ -591,20 +526,13 @@
         "src-timezones-v0_5_1": "src-timezones-v0_5_1"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_5_1",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-lRfw8QcGM+F6RHQzdVlwS54V2dnSQpkz1sD74Io2ysE=",
+        "path": "./v0_5_1",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_5_1",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_5_1",
+        "type": "path"
       }
     },
     "timezones-v0_5_2": {
@@ -620,20 +548,13 @@
         "src-timezones-v0_5_2": "src-timezones-v0_5_2"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_5_2",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-0aN3Y6bCvt8eQsgg5vl9ylbtvgvLZuZDFBXKz8TMX8k=",
+        "path": "./v0_5_2",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_5_2",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_5_2",
+        "type": "path"
       }
     },
     "timezones-v0_5_3": {
@@ -649,20 +570,13 @@
         "src-timezones-v0_5_3": "src-timezones-v0_5_3"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_5_3",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-HJ6fgFOJbsrm7H7t49aQCWj3B2e9epgPBlOG8Af23ck=",
+        "path": "./v0_5_3",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_5_3",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_5_3",
+        "type": "path"
       }
     },
     "timezones-v0_5_4": {
@@ -678,20 +592,13 @@
         "src-timezones-v0_5_4": "src-timezones-v0_5_4"
       },
       "locked": {
-        "dir": "nimpkgs/t/timezones/v0_5_4",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-62F9MDxo3xvx+AVsX9scQTsN35xcwdB6BKVG0AQqVE4=",
+        "path": "./v0_5_4",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/t/timezones/v0_5_4",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_5_4",
+        "type": "path"
       }
     }
   },
